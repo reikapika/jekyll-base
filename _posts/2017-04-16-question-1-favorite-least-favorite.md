@@ -36,7 +36,7 @@ things that I want with the directory, although I didn't need to go deep into th
 
 # Tell about how you made your site and why you chose the tools you did.
 
-- I used Jekyll to build this site. The reason I chose Jekyll is because I have a GitHub Page and it is powered by Jekyll, so I'd like to learn how Jekyll works. I installed Jekyll through RubyGems and it has a straightforward doc to follow through just as Netlify.
+- I used Jekyll to build this site. The reason I chose Jekyll is because I have a GitHub Page and it is powered by Jekyll, so I'd like to learn how Jekyll works. I installed Jekyll through RubyGems and it has a straightforward doc to follow through just as Netlify. I encountered the redirect challenge and I tried to put the redirects file under the site folder which is being deployed, but it didn't work the way I expected and I played with that file in different possible locations which still didn't work.
 
 # Could you give us a suggestion to improve this test or the job posting?
 
@@ -54,7 +54,8 @@ address the other questions regarding technical support.
 
 # Explain, in a couple of paragraphs, what you think 2 major challenges around DNS configuration are for less-technical internet end-users
 
--
+- One major challenge around DNS configuration for less-technical end-users is that they don't know much about DNS and it is challenging to explain to people during troubleshooting in terms of dealing with DNS configuration. Usually people demand for easy-to-build websites without worrying about how the websites are powered and what is going on behind the build command. Configuring DNS involves some knowledge about network protocols and it is intricate sometimes for non-technical people to try changing a DNS server or setting a particular IP address for a certain domain.
+- I'm not an expert on DNS configuration, but I'd say the second major challenge around DNS configuration is probably how to deal with the hosting part.  
 
 # A customer writes in saying their “site won’t build”.  Compose your best short (2-paragraph) customer-facing answer without any additional data, that could be useful in the generic case but would also lead to a customer providing a more actionable response.
 
