@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 16 Apr 2017 23:36:06 -0700</pubDate>
+    <lastBuildDate>Sun, 16 Apr 2017 23:36:06 -0700</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Anwers to all questions</title>
+        <description>&lt;h1 id=&quot;rank-your-5-favorite-and-least-favorite-activities-from-this-list&quot;&gt;Rank your 5 favorite, and least favorite, activities from this list:&lt;/h1&gt;
+&lt;p&gt;https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6&lt;/p&gt;
+
+&lt;h1 id=&quot;favorite-activities&quot;&gt;5 Favorite Activities:&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Respond to 60+ support requests via email or chat every day&lt;/li&gt;
+  &lt;li&gt;Debug a customer’s build using a programming language and framework that you’ve never seen before&lt;/li&gt;
+  &lt;li&gt;Submit bug reports and potentially bug fixes to closed and open source projects that Netlify maintains on GitHub&lt;/li&gt;
+  &lt;li&gt;Work with the development team to help design a new feature based on feedback from customers&lt;/li&gt;
+  &lt;li&gt;Engage multiple users at once via chat to answer their questions and troubleshoot problems&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;least-favorite-activities&quot;&gt;5 Least Favorite Activities:&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Help manage communications during a service outage&lt;/li&gt;
+  &lt;li&gt;Work with prospective customers to explain our service and the pricing model&lt;/li&gt;
+  &lt;li&gt;Find and recruit teammates for the support team&lt;/li&gt;
+  &lt;li&gt;Respond to Netlify fans on Twitter&lt;/li&gt;
+  &lt;li&gt;Write and maintain documentation for our software and blog posts for our website&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;what-is-your-favorite-thing-about-providing-technical-support&quot;&gt;What is your favorite thing about providing technical support?&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I enjoy problem solving and helping people in general. Being support engineer enables me to face different challenges, which I have the opportunity to troubleshoot different problems and help others succeed with our products during life-long journey of learning.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;what-did-you-think-of-our-service-during-the-time-you-used-it&quot;&gt;What did you think of our service during the time you used it?&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Netlify has a well written, organized support documentation and I’m comfortable finding
+things that I want with the directory, although I didn’t need to go deep into the API. Netlify is very straightforward to use overall during the time I used it.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;tell-about-how-you-made-your-site-and-why-you-chose-the-tools-you-did&quot;&gt;Tell about how you made your site and why you chose the tools you did.&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I used Jekyll to build this site. The reason I chose Jekyll is because I have a GitHub Page and it is powered by Jekyll, so I’d like to learn how Jekyll works. I installed Jekyll through RubyGems and it has a straightforward doc to follow through just as Netlify.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;could-you-give-us-a-suggestion-to-improve-this-test-or-the-job-posting&quot;&gt;Could you give us a suggestion to improve this test or the job posting?&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I’d suggest to have questions that involves interactions with the Netlify APIs to better
+address the other questions regarding technical support.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;provide-a-link-to-documentation-for-a-technicaldeveloper-focused-product-that-you-think-are-well-done-and-briefly-explain-why-you-think-they-are-well-done&quot;&gt;Provide a link to documentation for a technical/developer-focused product, that you think are well done, and briefly explain why you think they are well done.&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;https://developer.github.com/v3/ I like the GitHub API docs because it is clean and nicely structured with different chapters. It contains straightforward instructions and guidelines for each commands or api interactions. Code snippets also help a lot for beginner developers or people who never use the API.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;why-do-you-think-sslhttps-is-important&quot;&gt;Why do you think SSL/HTTPS is important?&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;SSL/HTTPS is important because it is essential for safe network communications in modern internet. When people exchange/transfer private and sensitive information over the web, this type of information need to be protected from malicious attacks through encrypting the connection between the request sender and the request recipient. With JAMstack in particular, making any API requests using SSL is necessary for the purpose of securing the real, accurate content communication away from outside injections/attacks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;explain-in-a-couple-of-paragraphs-what-you-think-2-major-challenges-around-dns-configuration-are-for-less-technical-internet-end-users&quot;&gt;Explain, in a couple of paragraphs, what you think 2 major challenges around DNS configuration are for less-technical internet end-users&lt;/h1&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;h1 id=&quot;a-customer-writes-in-saying-their-site-wont-build--compose-your-best-short-2-paragraph-customer-facing-answer-without-any-additional-data-that-could-be-useful-in-the-generic-case-but-would-also-lead-to-a-customer-providing-a-more-actionable-response&quot;&gt;A customer writes in saying their “site won’t build”.  Compose your best short (2-paragraph) customer-facing answer without any additional data, that could be useful in the generic case but would also lead to a customer providing a more actionable response.&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Me: “Hi, (customer name)! Thank you for choosing Netlify. We highly value each of our customers and your continuous support to our products is the greatest motivation behind our success. My name is Esther and I’m happy to assist you today. How may I help you?”&lt;/li&gt;
+  &lt;li&gt;Customer: “site won’t build”&lt;/li&gt;
+  &lt;li&gt;Me: I’m so sorry to hear that. I apologize for any inconvenience caused by this problem. I’d be more than happy to assist you with this problem. I’d like to introduce our support documentation https://www.netlify.com/docs/ for your reference. This covers a wide variety of technical usage of our product. To get started, may I please ask for your (XYZ information)?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 16 Apr 2017 07:29:00 -0700</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2017/04/16/question-1-favorite-least-favorite.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2017/04/16/question-1-favorite-least-favorite.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 12 Feb 2015 05:46:40 -0800</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/02/12/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/02/12/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -7,7 +7,7 @@ categories: jekyll update
 # Rank your 5 favorite, and least favorite, activities from this list:
 https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6
 
-## 5 Favorite Activities:
+# 5 Favorite Activities:
 
 * Respond to 60+ support requests via email or chat every day
 * Debug a customer's build using a programming language and framework that you've never seen before
@@ -16,7 +16,7 @@ https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6
 * Engage multiple users at once via chat to answer their questions and troubleshoot problems
 
 
-## 5 Least Favorite Activities:
+# 5 Least Favorite Activities:
 
 * Help manage communications during a service outage
 * Work with prospective customers to explain our service and the pricing model
@@ -54,7 +54,7 @@ address the other questions regarding technical support.
 
 # Explain, in a couple of paragraphs, what you think 2 major challenges around DNS configuration are for less-technical internet end-users
 
-- 
+-
 
 # A customer writes in saying their “site won’t build”.  Compose your best short (2-paragraph) customer-facing answer without any additional data, that could be useful in the generic case but would also lead to a customer providing a more actionable response.
 
